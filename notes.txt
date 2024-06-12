@@ -1,1 +1,2 @@
 This is the repo to learn about how to delete git commit from remote.
+Now it is time to learn about git rebase interactive
