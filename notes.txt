@@ -1,0 +1,1 @@
+This is the repo to learn about how to delete git commit from remote
