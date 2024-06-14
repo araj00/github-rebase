@@ -3,8 +3,7 @@
 If you have ever done commit on wrong branch locally before pushing it on github repo, git reset has always come to help us out of those situation. As git reset have three options- soft, mixed and hard, this created confusion for the beginners that when to use them. But before learning about those three options let's learn about three main areas where your project's files reside:-
 
 1. **Working Directory**: 
-
- This is your project folder on your local machine where you actively edit and create files.     It is where you make changes to your code.
+This is your project folder on your local machine where you actively edit and create files.     It is where you make changes to your code.
 
 2. **Staging Area (Index)**:
 Think of this as a temporary holding area for the specific changes you want to include in your next commit. You use the git add command to add files or changes from your working directory to the staging area.
